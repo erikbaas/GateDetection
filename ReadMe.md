@@ -1,7 +1,7 @@
 # Gate Contour Detection with Minimum Area Noise Filtering 
-## AE4317 Assignment
+## Final xxx Assignment
 
-This project is an assignment for the AE4317 course on the TU Delft, and proposes a method for racing drones to detect gates. It combines contour detection and colour masking. Additionally, it uses area calculations to remove noise. 
+This project is an assignment for the xxx course on the TU Delft, and proposes a method for racing drones to detect gates. It combines contour detection and colour masking. Additionally, it uses area calculations to remove noise. 
 
 ## Installation & Getting Started
 
